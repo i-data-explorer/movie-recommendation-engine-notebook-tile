@@ -4,7 +4,7 @@
     "logo": "_images/dataset.png",
     "enabled": true,
     "category_label": ["Notebook"],
-    "de_catalog_id": "movie_recommendation_engine",
+    "de_catalog_id": "movie_recommendation_engine_notebook",
     "categories": [
       "Movies"
     ],
