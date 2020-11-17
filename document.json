@@ -1,0 +1,30 @@
+{
+    "name": "Movie Recommendation Engine Notebook",
+    "description": "Notebook for Movie Recommendation Engine",
+    "logo": "_images/dataset.png",
+    "has_supporting_content": false,
+    "de_catalog_id": "movie_recommendation_engine",
+    "source_repo": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook.git",
+    "cover": "cover.md",
+    "use_explorer_dataset": true,
+    "explorer_catalog_id": "movie_recommendation_engine_dataset",
+    "is_s3_type": false,
+    "buckets":[],
+    "meta": {
+      "Install time": [
+        "3 minutes"
+      ],
+      "Type": [
+        "Notebook"
+      ],
+      "Dataset": [
+        "Movie Recommendation Engine"
+      ],
+      "Categories": [
+        "Movies"
+      ],
+      "Catalog Id": [
+        "movie_recommendation_engine_notebook"
+      ]
+    }
+  }
