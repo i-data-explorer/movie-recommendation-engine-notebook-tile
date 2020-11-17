@@ -3,7 +3,7 @@
     "description": "Notebook for Movie Recommendation Engine",
     "logo": "_images/dataset.png",
     "has_supporting_content": false,
-    "de_catalog_id": "movie_recommendation_engine",
+    "de_catalog_id": "movie_recommendation_engine_notebook",
     "source_repo": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook.git",
     "cover": "cover.md",
     "use_explorer_dataset": true,
