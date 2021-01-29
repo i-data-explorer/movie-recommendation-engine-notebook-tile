@@ -1,5 +1,4 @@
 # Movie Recommendation Engine Notebook
-**Note**: Install movie recommendation engine dataset to use this notebook
 
 ![](_images/movie-image-0.jpg)
 
