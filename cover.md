@@ -3,7 +3,11 @@
 
 ![](_images/movie-image-0.jpg)
 
-A recommendation engine, provides a selection of items to a user, based on the user's preferences. In this notebook, we've built a movie recommendation engine, which essentially works by suggesting movies watched by other users with similar "watch history".
+## What is the notebook about?
+In this notebook, we've built a movie recommendation engine, which essentially works by suggesting movies rated by other users with a similar "watch profile".
 
-We will be using a MovieLens dataset. This dataset contains 100004 ratings across 9125 movies for 671 users. All selected users had at least rated 20 movies. We are going to build a recommendation engine which will suggest movies for a user which he hasn't watched yet based on the movies which he has already rated. We will be using k-nearest neighbour algorithm which we will implement from scratch.
+## What algorithms are used?
+We will be using the K-Nearest Neighbour algorithm which shall be implemented from scratch.
 
+## What is the content of the notebook?
+The notebook uses a MovieLens dataset. This dataset contains 100004 ratings across 9125 movies for 671 users. All selected users had at least rated 20 movies. We will build a recommendation engine, training the KNN model using the MovieLens Dataset, which will recommend movies for a user, which they haven't watched yet.
